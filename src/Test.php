@@ -6,7 +6,7 @@ class Test
 
     public function test()
     {
-        return 'this is my first upgrade package';
+        return 'this is my upgrade package';
     }
 
 }
