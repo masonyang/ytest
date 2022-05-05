@@ -1,0 +1,20 @@
+{
+    "name": "mason/ytest",
+    "description": "This is my first composer package",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mason\\Ytest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mason",
+            "email": "ystr20@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
