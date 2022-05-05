@@ -1,5 +1,5 @@
 <?php
-namespace Mason\Ytest;
+namespace Masonyang\Ytest;
 
 class Test
 {

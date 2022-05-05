@@ -1,4 +1,4 @@
 <?php
 require "../vendor/autoload.php";
-$test = new \Mason\Ytest\Test();
+$test = new \Masonyang\Ytest\Test();
 echo $test->test();

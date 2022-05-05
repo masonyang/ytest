@@ -1,5 +1,5 @@
 {
-    "name": "mason/ytest",
+    "name": "masonyang/ytest",
     "description": "This is my first composer package",
     "type": "library",
     "require": {
@@ -7,12 +7,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Mason\\Ytest\\": "src/"
+            "Masonyang\\Ytest\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "mason",
+            "name": "masonyang",
             "email": "ystr20@qq.com"
         }
     ],
